@@ -6,6 +6,7 @@
 
 - [Giới thiệu về Fishdom DEFI](#giới-thiệu-về-fishdom-defi)
   - [Bối cảnh](#bối-cảnh)
+  - [Fishdom DEFI là gì?](#fishdom-defi-là-gì?)
   - [Fishdom DEFI có gì?](#fishdom-defi-có-gì?)
 - [Tổng hợp mã nguồn](#tổng-hợp-mã-nguồn)
   - [Website chính thức](#website-chính-thức)
@@ -21,6 +22,17 @@ Trong đó, nổi bật và được ưa chuộng hơn cả, phải nhắc đế
 một công nghệ mới, hướng đến tính minh bạch và xác thức, tạo ra sự tin tưởng, uy tín hàng đầu cho những nhà đầu tư và người dùng.
 
 Vì vậy **Fishdom DEFI** đã được ra đời.
+
+### Fishdom DEFI là gì?
+
+Fishdom DEFI là một sân chơi giải trí, là một hệ sinh thái theo phong cách mới. 
+Người chơi có thể "Play to earn", gửi tiết kiệm, giao dịch NFT 
+**HOÀN TOÀN MINH BẠCH VÀ ĐƯỢC XÁC THỰC**.
+
+
+Thậm trí, Fishdom DEFI có thể được coi là một hộ kinh doanh nhỏ. 
+Với nền tảng đã và đang có Fishdom DEFI có thể phát triển lớn mạnh hơn nữa.
+
 
 ### Fishdom DEFI có gì?
 
