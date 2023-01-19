@@ -16,11 +16,9 @@
 ## Giới thiệu về Fishdom DEFI
 
 ### Bối cảnh
-
-Tại thời đại công nghệ 4.0, rất nhiều sự cạnh tranh, sự bùng nổ về mặt công nghệ đang xảy ra. 
-Trong đó phải kể đến công nghệ mới, đang rất nổi và được ưa chuộng. 
-Đó là công nghệ Blockchain (chuỗi khối). Nó hướng đến tính minh bạch và xác thức, tạo ra sự tin tưởng, uy tín
-hàng đầu cho những nhà đầu tư và người dùng.
+Trong bối cảnh thời đại 4.0, chúng ta luôn thấy được sự bùng nổ và cạnh tranh về mặt công nghệ. 
+Trong đó, nổi bật và được ưa chuộng hơn cả, phải nhắc đến công nghệ Blockchain (chuỗi khối) - 
+một công nghệ mới, hướng đến tính minh bạch và xác thức, tạo ra sự tin tưởng, uy tín hàng đầu cho những nhà đầu tư và người dùng.
 
 Vì vậy **Fishdom DEFI** đã được ra đời.
 
