@@ -8,6 +8,7 @@
   - [Bối cảnh](#bối-cảnh)
   - [Fishdom DEFI là gì?](#fishdom-defi-là-gì?)
   - [Fishdom DEFI có gì?](#fishdom-defi-có-gì?)
+  - [Luồng hoạt động](#luồng-hoạt-động)
 - [Tổng hợp mã nguồn](#tổng-hợp-mã-nguồn)
   - [Website chính thức](#website-chính-thức)
   - [Web Game](#web-game)
@@ -50,6 +51,11 @@ Fishdom DEFI là một sân chơi đa dạng:
 - Gửi tiết kiệm FDT *(Fishdom Token)* với những mức lãi suất khác nhau,
 - Quy đổi điểm ra FDT và ngược lại. 
 - Sử dụng NFT chơi game và nhận điểm.
+
+
+### Luồng hoạt động
+
+
 
 
 ## Tổng hợp mã nguồn
