@@ -56,6 +56,7 @@ Fishdom DEFI là một sân chơi đa dạng:
 ### Luồng hoạt động
 
 
+<img src="https://github.com/augustusflynn/Fishdom_DEFI_Project/blob/main/architech.png" alt="flow" />
 
 
 ## Tổng hợp mã nguồn
